@@ -1,0 +1,6 @@
+C:\Users\artorias223\Downloads\Taller seccion A\talleriujo01\talleriujo01\obj\Debug\talleriujo01.csprojResolveAssemblyReference.cache
+C:\Users\artorias223\Downloads\Taller seccion A\talleriujo01\talleriujo01\bin\Debug\talleriujo01.exe.config
+C:\Users\artorias223\Downloads\Taller seccion A\talleriujo01\talleriujo01\bin\Debug\talleriujo01.exe
+C:\Users\artorias223\Downloads\Taller seccion A\talleriujo01\talleriujo01\bin\Debug\talleriujo01.pdb
+C:\Users\artorias223\Downloads\Taller seccion A\talleriujo01\talleriujo01\obj\Debug\talleriujo01.exe
+C:\Users\artorias223\Downloads\Taller seccion A\talleriujo01\talleriujo01\obj\Debug\talleriujo01.pdb
